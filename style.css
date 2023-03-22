@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    font-family: 'Nova Square', cursive;
+    };
+
+.Rajdhani{
+    font-family: 'Nova Square', cursive;
+}
+
+:root{
+    --col1:#C67F7F;
+    --col2: #ececec;
+    --col3: #8B0000;
+}
