@@ -14,3 +14,8 @@ body{
     --col2: #ececec;
     --col3: #8B0000;
 }
+
+.logo-custom{
+    height: 150px;
+    width: 200px;
+}
