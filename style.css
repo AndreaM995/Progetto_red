@@ -18,4 +18,14 @@ body{
 .logo-custom{
     height: 150px;
     width: 200px;
+    background-color: white;
+}
+.bg_i{
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0.1)), url(./media/switzerland-862870_1920.jpg);
+    background-size: cover;
+}
+.lorem{
+    color:#8B0000;
+    font-size: 150px;
+    letter-spacing: 100px;
 }
