@@ -1,13 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
 
 body{
     font-family: 'Nova Square', cursive;
     };
-
-.Rajdhani{
-    font-family: 'Nova Square', cursive;
-}
 
 :root{
     --col1:#C67F7F;
@@ -20,12 +15,25 @@ body{
     width: 200px;
     background-color: white;
 }
-.bg_i{
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0.1)), url(./media/switzerland-862870_1920.jpg);
-    background-size: cover;
-}
+
 .lorem{
     color:#8B0000;
-    font-size: 150px;
-    letter-spacing: 100px;
+    letter-spacing: 40px;
 }
+
+.bg-custom-mio
+{
+   background:url(./media/mountains2.png), linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 85%), url(./media/switzerland-862870_1920.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 100vh;
+    
+}
+
+.font-size-custom
+{
+ /* font-size: 20px; */
+ opacity: 0.6;
+};
+
