@@ -39,3 +39,16 @@ body{
     font-size: 40px;
 }
 
+.circle{
+    background-color: white;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: 2px #890403 solid;
+    top: -25px;
+}
+
+.lorem-border{
+    border-bottom: 10px solid;
+    border-radius: 10px;
+}
